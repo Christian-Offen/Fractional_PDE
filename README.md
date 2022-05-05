@@ -1,6 +1,6 @@
 # Fractional_PDE
 
-This notebook contains a Julia implementation of the meethod described in the following conference paper:
+This repository contains a Julia implementation of the meethod described in the following conference paper:
 
 Jacky Cresson, Fernando Jiménezk, Sina Ober-Blöbaum<br>
 <i>Modelling of the Convection-Diffusion Equation through Fractional Restricted Calculus of Variations</i><br>
